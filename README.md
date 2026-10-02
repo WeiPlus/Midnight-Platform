@@ -1,8 +1,8 @@
-![Minecraft 1.20.1 | 1.21.1](https://img.shields.io/badge/Minecraft-1.20.1_%7C_1.21.1-62b47a?style=for-the-badge&logo=minecraft)
-![Forge 1.20.1](https://img.shields.io/badge/Forge-1.20.1-orange?style=for-the-badge&logo=forge)
-![NeoForge 1.21.1](https://img.shields.io/badge/NeoForge-1.21.1-e9722d?style=for-the-badge&logo=neoforge)
-![License GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-4ec820?style=for-the-badge)
-![Modrinth](https://img.shields.io/badge/Modrinth-midnight--station-aaff4f?style=for-the-badge&logo=modrinth)
+![Minecraft 1.20.1 | 1.21.1](https://img.shields.io/badge/Minecraft-1.20.1_%7C_1.21.1-62b47a?logo=minecraft)
+![Forge 1.20.1](https://img.shields.io/badge/Forge-1.20.1-orange?logo=forge)
+![NeoForge 1.21.1](https://img.shields.io/badge/NeoForge-1.21.1-e9722d?logo=neoforge)
+![License GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-4ec820)
+![Modrinth](https://img.shields.io/badge/Modrinth-midnight--station-aaff4f?logo=modrinth)
 
 # Midnight PlatForm
 
@@ -34,7 +34,7 @@ Content may expand over time. Check release notes for updates.
 
 1. Install the correct version of **Minecraft** (1.20.1 or 1.21.1).
 2. Install the matching loader: **Forge** for 1.20.1, or **NeoForge** for 1.21.1.
-3. Download the matching mod file from the <Releases> page or Modrinth.
+3. Download the matching mod file from the [GitHub Releases](https://github.com/WeiPlus/Midnight-Platform/releases) page or Modrinth.
 4. Put the `.jar` file into your `mods` folder.
 5. Launch Minecraft and enjoy.
 
@@ -44,15 +44,15 @@ The `mods` folder is usually located at:
 
 | Item | Version |
 |---|---|
-| Minecraft | 1.20.1 |
-| Loader | Forge or Fabric |
-| Java | Java 17 |
+| Minecraft | 1.20.1 or 1.21.1 |
+| Loader | Forge or Neoforge |
+| Java | Java 17(1.20.1) or Java|
 
 
 ## Downloads
 
-- <GitHub Releases>
-- <Modrinth>
+- [GitHub Releases](https://github.com/WeiPlus/Midnight-Platform/releases)
+- Modrinth
 
 ## Feedback
 
